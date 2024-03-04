@@ -5,7 +5,7 @@ pipeline
     agent any
     stages
     {
-        stage("Clean the workspace")
+        stage("Cleaning the workspace")
         {
             steps
             {

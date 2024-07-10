@@ -67,7 +67,7 @@ pipeline
                 }
             }
         }
-        stage("Building docker image")
+        stage("Building dockerfile")
         {
             steps
             {
